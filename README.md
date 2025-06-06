@@ -5,5 +5,5 @@ This is my portfolio for the Frontend Development course. It showcases my top 3 
 -  Science Museum
 -  Chronicles of Maas
 
-## 🚀 Portfolio Live
+##  Portfolio Live
 [Visit my Portfolio here](https://tu-link-netlify.netlify.app)
